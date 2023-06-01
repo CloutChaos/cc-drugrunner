@@ -1,5 +1,5 @@
 local QBCore = exports['qb-core']:GetCoreObject()
-
+local copsRequired = 2
 -- Events
 
 RegisterNetEvent('cc-drugrunner:client:GiveBox', function()
